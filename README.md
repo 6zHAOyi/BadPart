@@ -1,6 +1,6 @@
 # BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks
 
-This is another official PyTorch implementation of our paper "BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks". Any futher updates will be submitted to our main repo, please refer to [here](https://github.com/Bob-cheng/BadPart) to see if there is any updates.
+This is another official PyTorch implementation of our paper "BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks". Any futher updates will be submitted to our main repo, please refer to [here](https://github.com/Bob-cheng/BadPart) to see if there is any update.
 <img src="Assets/vis-position.png" width="100%">
 ## Table of Contents
 
