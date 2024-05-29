@@ -188,3 +188,13 @@ CUDA_VISIBLE_DEVICES=0 python main.py \
     --test_name name_for_this_test
 ```
 You can also view the attack performance on Tensorboard.
+
+## Citation
+```
+@article{cheng2024badpart,
+  title={BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks},
+  author={Cheng, Zhiyuan and Liu, Zhaoyi and Guo, Tengda and Feng, Shiwei and Liu, Dongfang and Tang, Mingjie and Zhang, Xiangyu},
+  journal={arXiv preprint arXiv:2404.00924},
+  year={2024}
+}
+```
